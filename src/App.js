@@ -25,7 +25,7 @@ function App() {
   ];
   return (
     <div>
-      <h2>Expenses first page </h2>
+      <h2>Expenses </h2>
       <ExpenseItem
       title ={expenses[0].title}
       amount = {expenses[0].amount}
